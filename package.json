@@ -1,0 +1,8 @@
+{
+  "name": "serie-pwa",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Registro de entrenamiento local, offline e instalable.",
+  "scripts": { "test": "node --test tests/*.test.js" }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Serie · Registro de entrenamiento",
+  "short_name": "Serie",
+  "description": "Rutinas, series, cargas y descansos. Todo en tu dispositivo.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1218",
+  "theme_color": "#0d1218",
+  "categories": ["health", "sports", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
